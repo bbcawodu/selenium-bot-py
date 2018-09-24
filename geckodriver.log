@@ -1,0 +1,1890 @@
+1537721848182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.0fOHNf5NuBbk"
+2018-09-23 11:57:30.854 plugin-container[1314:78916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 11:57:31.453 plugin-container[1315:78953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537721852247	Marionette	INFO	Listening on port 51182
+1537721852285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537721852393	Marionette	DEBUG	[4294967297] Frame script loaded
+1537721852402	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 11:57:32.464 plugin-container[1316:79068] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537721852526	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537721852778	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537721854927	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/mma
+1537721855709	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/mma
+1537721855740	Marionette	INFO	Stopped listening on port 51182
+1537721873249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.khgg1v8WKnAg"
+2018-09-23 11:57:58.739 plugin-container[1326:79447] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x850b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 11:57:59.703 plugin-container[1327:79474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537721881384	Marionette	INFO	Listening on port 51278
+1537721881400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537721881606	Marionette	DEBUG	[4294967297] Frame script loaded
+1537721881612	Marionette	DEBUG	[4294967297] Frame script registered
+1537721881686	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 11:58:01.695 plugin-container[1329:79631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537721884354	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537721894986	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537721911357	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537721911451	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537721914377	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537721914533	Marionette	INFO	Stopped listening on port 51278
+1537723670214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.BsdXike6GF7m"
+2018-09-23 12:27:53.237 plugin-container[1598:131090] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 12:27:53.863 plugin-container[1599:131121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537723674615	Marionette	INFO	Listening on port 52217
+1537723674649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537723674756	Marionette	DEBUG	[4294967297] Frame script loaded
+1537723674759	Marionette	DEBUG	[4294967297] Frame script registered
+1537723674811	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 12:27:54.965 plugin-container[1600:131228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537723675978	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537723691010	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537723717612	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537723717617	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537723723125	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537724149205	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.zT0X8JGPa1MS"
+2018-09-23 12:35:56.221 plugin-container[1707:137824] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 12:35:57.572 plugin-container[1708:137857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724159168	Marionette	INFO	Listening on port 52745
+2018-09-23 12:35:59.193 plugin-container[1709:138029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724159248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537724159423	Marionette	DEBUG	[4294967297] Frame script loaded
+1537724159430	Marionette	DEBUG	[4294967297] Frame script registered
+1537724159542	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537724160643	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537724175819	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537724199263	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537724201774	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+Unable to get IOVARendererSubID
+1537724250686	Marionette	INFO	Stopped listening on port 52745
+1537724253595	Marionette	INFO	Stopped listening on port 52217
+1537724267175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.MDfA4CtJMBql"
+2018-09-23 12:37:52.186 plugin-container[1736:139454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 12:37:52.942 plugin-container[1737:139482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724274073	Marionette	INFO	Listening on port 53007
+1537724274163	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-23 12:37:54.305 plugin-container[1738:139580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724274310	Marionette	DEBUG	[4294967297] Frame script loaded
+1537724274338	Marionette	DEBUG	[4294967297] Frame script registered
+1537724274420	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537724275371	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537724284146	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537724304443	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537724304447	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537724305895	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537724308992	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537724310034	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537724310081	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537724311271	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537724311328	Marionette	INFO	Stopped listening on port 53007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537724400537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.6SfGn7hPIv8B"
+2018-09-23 12:40:03.940 plugin-container[1765:140758] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 12:40:04.692 plugin-container[1767:140792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724405670	Marionette	INFO	Listening on port 53242
+1537724405774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537724405902	Marionette	DEBUG	[4294967297] Frame script loaded
+1537724405905	Marionette	DEBUG	[4294967297] Frame script registered
+1537724405968	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 12:40:06.053 plugin-container[1768:140898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537724407132	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537724417958	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537724438483	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537724438486	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537724440191	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537724443432	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537724444716	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537724444722	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537724446087	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537724446117	Marionette	INFO	Stopped listening on port 53242
+1537725170053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.UY3gblTwMCEl"
+2018-09-23 12:52:52.835 plugin-container[1894:176103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 12:52:53.448 plugin-container[1895:176134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537725174282	Marionette	INFO	Listening on port 53929
+1537725174380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537725174523	Marionette	DEBUG	[4294967297] Frame script loaded
+2018-09-23 12:52:54.538 plugin-container[1896:176237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537725174549	Marionette	DEBUG	[4294967297] Frame script registered
+1537725174640	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537725175668	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537725182372	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537725197157	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537725197188	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537725199732	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537725201957	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537725202774	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537725202776	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537725203817	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537725203847	Marionette	INFO	Stopped listening on port 53929
+1537731479934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.7GjNuvkZfCId"
+2018-09-23 14:38:02.977 plugin-container[3009:699008] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:38:03.618 plugin-container[3010:699086] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731484454	Marionette	INFO	Listening on port 59328
+1537731484576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537731484678	Marionette	DEBUG	[4294967297] Frame script loaded
+1537731484688	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 14:38:04.721 plugin-container[3011:699324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731484775	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537731486464	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537731490606	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537731503330	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537731503343	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537731504477	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537731506218	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731507010	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537731507012	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537731508117	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731508240	Marionette	INFO	Stopped listening on port 59328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537731583867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.ycCu6Dy3Jqqg"
+2018-09-23 14:39:46.187 plugin-container[3035:710946] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:39:46.664 plugin-container[3036:711017] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731587381	Marionette	INFO	Listening on port 59518
+1537731587524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537731587635	Marionette	DEBUG	[4294967297] Frame script loaded
+1537731587639	Marionette	DEBUG	[4294967297] Frame script registered
+1537731587676	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 14:39:47.719 plugin-container[3037:711238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731588609	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537731592645	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537731609214	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537731609219	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537731610365	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537731612537	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731613383	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537731613385	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537731614386	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731676286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.9cORvX3K6gjQ"
+2018-09-23 14:41:18.759 plugin-container[3056:721144] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:41:19.317 plugin-container[3058:721214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731680081	Marionette	INFO	Listening on port 59724
+1537731680099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537731680214	Marionette	DEBUG	[4294967297] Frame script loaded
+1537731680218	Marionette	DEBUG	[4294967297] Frame script registered
+1537731680312	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 14:41:20.392 plugin-container[3060:721450] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731681389	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537731685148	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537731701807	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537731701808	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537731702838	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537731705286	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731706229	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537731706230	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537731707199	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731849510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.YFxvYkTP0x8o"
+2018-09-23 14:44:12.176 plugin-container[3091:739629] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:44:12.876 plugin-container[3092:739698] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731853591	Marionette	INFO	Listening on port 59960
+1537731853631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537731853754	Marionette	DEBUG	[4294967297] Frame script loaded
+1537731853775	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 14:44:13.841 plugin-container[3093:739923] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731853866	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537731855573	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537731859878	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537731875425	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537731875433	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537731878648	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537731880871	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731881966	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537731881969	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537731883001	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731893462	Marionette	INFO	Stopped listening on port 59960
+1537731895868	Marionette	INFO	Stopped listening on port 59724
+1537731900178	Marionette	INFO	Stopped listening on port 59518
+1537731912156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.9IhvUrUSsiEk"
+2018-09-23 14:45:14.883 plugin-container[3110:746744] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:45:15.401 plugin-container[3111:746816] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731916172	Marionette	INFO	Listening on port 60131
+1537731916267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537731916367	Marionette	DEBUG	[4294967297] Frame script loaded
+1537731916369	Marionette	DEBUG	[4294967297] Frame script registered
+1537731916432	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 14:45:16.454 plugin-container[3112:747043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537731918338	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537731921433	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/MMA/
+1537731932895	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537731932897	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537731933759	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/MMA/
+Unable to get IOVARendererSubID
+1537731935617	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537731936523	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537731936525	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537731937413	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1537732073021	Marionette	INFO	Stopped listening on port 60131
+1537732085263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.RT6k0xBxh8Jb"
+2018-09-23 14:48:08.132 plugin-container[3145:765436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 14:48:08.758 plugin-container[3146:765513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537732089716	Marionette	INFO	Listening on port 60394
+1537732089807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537732089933	Marionette	DEBUG	[4294967297] Frame script loaded
+2018-09-23 14:48:09.967 plugin-container[3147:765754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537732089970	Marionette	DEBUG	[4294967297] Frame script registered
+1537732090033	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537732091172	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537732097594	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537732114090	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537732114098	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537732114721	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537732116591	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537732117282	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537732117283	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537732118221	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537732118489	Marionette	INFO	Stopped listening on port 60394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537732906636	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.KGYfkveeKjGp"
+2018-09-23 15:01:50.455 plugin-container[3294:856595] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:01:51.415 plugin-container[3296:856703] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537732913056	Marionette	INFO	Listening on port 61150
+1537732913197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537732913399	Marionette	DEBUG	[4294967297] Frame script loaded
+1537732913403	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 15:01:53.486 plugin-container[3297:857026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537732913530	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537732914769	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537732929635	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537732949881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537732949939	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+1537732951918	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537732954407	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537732955350	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537732955352	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537732955353	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537732955354	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1537732955355	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537732956372	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733005318	Marionette	INFO	Stopped listening on port 61150
+1537733052764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.JmBtHEbpLZFK"
+2018-09-23 15:04:16.922 plugin-container[3327:872924] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:04:17.692 plugin-container[3328:873016] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733058808	Marionette	INFO	Listening on port 61421
+1537733058843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537733058984	Marionette	DEBUG	[4294967297] Frame script loaded
+1537733059009	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 15:04:19.057 plugin-container[3329:873278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733059079	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537733059958	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537733065286	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537733085248	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537733085268	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+1537733090462	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537733092460	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733093967	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537733093968	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537733093969	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537733093970	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1537733093971	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537733095132	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733124947	Marionette	INFO	Stopped listening on port 61421
+1537733457616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.7PrpO77lG12i"
+2018-09-23 15:11:00.257 plugin-container[3397:917865] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8007, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:11:00.766 plugin-container[3398:917938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733461474	Marionette	INFO	Listening on port 61877
+1537733461521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537733461629	Marionette	DEBUG	[4294967297] Frame script loaded
+1537733461632	Marionette	DEBUG	[4294967297] Frame script registered
+1537733461702	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 15:11:01.710 plugin-container[3399:918147] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733463315	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537733467091	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537733483956	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537733486441	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+Unable to get IOVARendererSubID
+1537733487269	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537733487270	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537733487271	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537733487272	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1537733487273	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537733488265	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733535531	Marionette	INFO	Stopped listening on port 61877
+1537733552520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.RduMFZH1hIPY"
+2018-09-23 15:12:35.220 plugin-container[3421:928725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:12:35.728 plugin-container[3422:928797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733556422	Marionette	INFO	Listening on port 62082
+1537733556447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537733556549	Marionette	DEBUG	[4294967297] Frame script loaded
+1537733556551	Marionette	DEBUG	[4294967297] Frame script registered
+1537733556594	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 15:12:36.659 plugin-container[3423:929004] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733557849	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537733561320	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537733575392	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537733575408	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+Unable to get IOVARendererSubID
+1537733577650	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537733578951	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733579504	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537733579504	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537733579505	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537733579506	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1537733579507	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537733579840	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733651711	Marionette	INFO	Stopped listening on port 62082
+1537733722214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.DJIJOnz6n9Yi"
+2018-09-23 15:15:25.442 plugin-container[3457:947485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:15:25.951 plugin-container[3458:947562] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733726703	Marionette	INFO	Listening on port 62324
+1537733726754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537733726868	Marionette	DEBUG	[4294967297] Frame script loaded
+1537733726871	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 15:15:26.938 plugin-container[3460:947777] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537733726946	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537733728772	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537733732517	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537733751724	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537733751729	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+Unable to get IOVARendererSubID
+1537733754466	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537733756622	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733757772	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537733757776	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537733757777	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537733757779	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537733757780	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537733758855	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537733759403	Marionette	INFO	Stopped listening on port 62324
+1537734504946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.dodU62fspitz"
+2018-09-23 15:28:32.340 plugin-container[3612:1034042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:28:33.352 plugin-container[3613:1034166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537734514676	Marionette	INFO	Listening on port 63246
+1537734514794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537734514970	Marionette	DEBUG	[4294967297] Frame script loaded
+1537734514984	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 15:28:35.091 plugin-container[3614:1034524] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537734515091	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537734516271	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537734543904	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537734587882	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537734587888	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+1537734593057	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537734597088	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537734598485	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537734598488	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537734598490	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537734598492	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1537734598493	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537734600168	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537734600982	Marionette	INFO	Stopped listening on port 63246
+1537734784744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.hJuol3SsSnKj"
+2018-09-23 15:33:12.060 plugin-container[3671:1064582] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:33:13.125 plugin-container[3673:1064702] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537734794487	Marionette	INFO	Listening on port 63632
+1537734794602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537734794783	Marionette	DEBUG	[4294967297] Frame script loaded
+2018-09-23 15:33:14.804 plugin-container[3674:1065048] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537734794816	Marionette	DEBUG	[4294967297] Frame script registered
+1537734794954	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537734795986	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537734818597	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537734859574	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967316
+1537734859578	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967318
+Unable to get IOVARendererSubID
+1537734862880	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537734865729	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537734867201	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537734867203	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537734867205	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537734867206	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1537734867208	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537734868718	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735049699	Marionette	INFO	Stopped listening on port 63632
+1537735184207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.CQju2zMhUkq4"
+2018-09-23 15:39:48.839 plugin-container[3763:1092755] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:39:49.629 plugin-container[3764:1092787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735190827	Marionette	INFO	Listening on port 64171
+1537735190891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537735191049	Marionette	DEBUG	[4294967297] Frame script loaded
+1537735191104	Marionette	DEBUG	[4294967297] Frame script registered
+1537735191173	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 15:39:51.308 plugin-container[3765:1092896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735192285	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537735214001	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537735250255	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537735253225	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735254334	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537735254336	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537735254348	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537735256094	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735343338	Marionette	INFO	Stopped listening on port 64171
+1537735360906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.CH4WruaAS7Kx"
+2018-09-23 15:42:44.939 plugin-container[3802:1095062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:42:45.597 plugin-container[3803:1095092] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735366559	Marionette	INFO	Listening on port 64484
+1537735366657	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-23 15:42:46.761 plugin-container[3804:1095194] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735366801	Marionette	DEBUG	[4294967297] Frame script loaded
+1537735366820	Marionette	DEBUG	[4294967297] Frame script registered
+1537735366912	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537735367865	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537735373301	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537735403749	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537735406671	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735407378	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537735407381	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537735407382	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537735408569	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735409097	Marionette	INFO	Stopped listening on port 64484
+1537735633524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.K7zdzT0I2mII"
+2018-09-23 15:47:17.957 plugin-container[3858:1097550] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:47:18.763 plugin-container[3860:1097589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735639901	Marionette	INFO	Listening on port 64918
+1537735639989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537735640147	Marionette	DEBUG	[4294967297] Frame script loaded
+1537735640185	Marionette	DEBUG	[4294967297] Frame script registered
+1537735640282	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 15:47:20.375 plugin-container[3861:1097715] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735641481	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537735650145	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537735669302	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537735671349	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537735672244	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537735672246	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537735672247	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537735673354	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+2018-09-23 15:51:19.423 plugin-container[3900:1099366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537735882781	Marionette	INFO	Stopped listening on port 64918
+1537736040959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.9EW7kg0QtMYv"
+2018-09-23 15:54:07.480 plugin-container[3938:1101607] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 15:54:08.427 plugin-container[3939:1101640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537736049821	Marionette	INFO	Listening on port 65370
+1537736049917	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-09-23 15:54:10.062 plugin-container[3940:1101760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537736050092	Marionette	DEBUG	[4294967297] Frame script loaded
+1537736050128	Marionette	DEBUG	[4294967297] Frame script registered
+1537736050204	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537736051653	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537736072853	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537736109892	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537736112739	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537736113862	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967305
+1537736113863	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537736113865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1537736115262	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537736116097	Marionette	INFO	Stopped listening on port 65370
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1537738902211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.1npCgEyT8aLI"
+2018-09-23 16:41:43.930 plugin-container[720:11401] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:41:44.243 plugin-container[721:11436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537738904541	Marionette	INFO	Listening on port 49692
+1537738904595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537738904654	Marionette	DEBUG	[4294967297] Frame script loaded
+1537738904662	Marionette	DEBUG	[4294967297] Frame script registered
+1537738904692	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:41:45.014 plugin-container[722:11537] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537738906108	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537738907857	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537738912085	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537738912532	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537738912865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537738912865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537738912865	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537738913347	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537738923509	Marionette	INFO	Stopped listening on port 49692
+1537739050058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.8KJTgLPluLhj"
+2018-09-23 16:44:11.653 plugin-container[752:12606] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:44:11.924 plugin-container[754:12636] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739052338	Marionette	INFO	Listening on port 49911
+1537739052416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739052462	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739052479	Marionette	DEBUG	[4294967297] Frame script registered
+1537739052503	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:44:12.685 plugin-container[755:12746] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739053836	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739055901	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739060529	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739060994	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739061213	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739061214	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739061214	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537739061426	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739116388	Marionette	INFO	Stopped listening on port 49911
+1537739119570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.MaP2kG44CdGI"
+2018-09-23 16:45:21.174 plugin-container[772:13553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:45:21.441 plugin-container[773:13581] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739121775	Marionette	INFO	Listening on port 50119
+1537739121825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739121872	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739121875	Marionette	DEBUG	[4294967297] Frame script registered
+1537739121936	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:45:22.126 plugin-container[774:13691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739123267	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739125079	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739129152	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739129551	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739129790	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739129791	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739129791	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537739130311	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739168599	Marionette	INFO	Stopped listening on port 50119
+1537739171220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.3ScUUjldI8QT"
+2018-09-23 16:46:12.882 plugin-container[788:14338] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:46:13.147 plugin-container[789:14365] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739173512	Marionette	INFO	Listening on port 50272
+1537739173590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739173637	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739173640	Marionette	DEBUG	[4294967297] Frame script registered
+1537739173709	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:46:13.901 plugin-container[790:14472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739174572	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739176324	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739180573	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739180940	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739181099	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739181100	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739181101	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537739181304	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739234137	Marionette	INFO	Stopped listening on port 50272
+1537739236924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.WYmncgkuwFop"
+2018-09-23 16:47:18.546 plugin-container[808:15165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:47:18.809 plugin-container[809:15193] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739239159	Marionette	INFO	Listening on port 50434
+1537739239170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739239219	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739239220	Marionette	DEBUG	[4294967297] Frame script registered
+1537739239265	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:47:19.547 plugin-container[810:15300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739240324	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739242008	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739247027	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739247466	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739247708	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739247708	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537739247709	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537739247930	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739275014	Marionette	INFO	Stopped listening on port 50434
+1537739279615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.Sv4s4rZDl7Le"
+2018-09-23 16:48:01.214 plugin-container[823:15815] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:48:01.485 plugin-container[824:15845] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739281819	Marionette	INFO	Listening on port 50609
+1537739281876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739281923	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739281970	Marionette	DEBUG	[4294967297] Frame script registered
+1537739281998	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:48:02.184 plugin-container[825:15959] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739282983	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739284653	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739288317	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739288644	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739288795	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739288795	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739288795	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537739288998	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739419858	Marionette	INFO	Stopped listening on port 50609
+1537739423940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.VdMeLSCAar8z"
+2018-09-23 16:50:25.532 plugin-container[857:17135] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:50:25.804 plugin-container[858:17162] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7703, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739426125	Marionette	INFO	Listening on port 50822
+1537739426204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739426249	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739426274	Marionette	DEBUG	[4294967297] Frame script registered
+1537739426294	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:50:26.478 plugin-container[859:17272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739427184	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739428917	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739431961	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739432294	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739432431	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739432431	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739432432	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537739432643	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739778040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.5y8nqyxzk0Oh"
+2018-09-23 16:56:19.670 plugin-container[930:19760] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:56:20.037 plugin-container[931:19792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8403, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739780280	Marionette	INFO	Listening on port 51192
+1537739780304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739780352	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739780353	Marionette	DEBUG	[4294967297] Frame script registered
+1537739780375	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:56:20.722 plugin-container[933:19904] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739781273	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739783179	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739787477	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739787930	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739788091	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739788091	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739788091	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537739788296	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739835113	Marionette	INFO	Stopped listening on port 51192
+1537739838837	Marionette	INFO	Stopped listening on port 50822
+1537739928776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.Wzo1MYQipMa4"
+2018-09-23 16:58:50.361 plugin-container[961:20970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8633, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 16:58:50.618 plugin-container[962:20999] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739930899	Marionette	INFO	Listening on port 51412
+1537739930940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537739930989	Marionette	DEBUG	[4294967297] Frame script loaded
+1537739930990	Marionette	DEBUG	[4294967297] Frame script registered
+1537739931012	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 16:58:51.368 plugin-container[963:21104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537739932139	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537739933982	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537739937969	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537739938349	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537739938494	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537739938494	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537739938494	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537739938720	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740116985	Marionette	INFO	Stopped listening on port 51412
+1537740133712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.ptoJhhCiKs63"
+2018-09-23 17:02:15.179 plugin-container[1002:23372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:02:15.431 plugin-container[1003:23400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740135757	Marionette	INFO	Listening on port 51683
+1537740135768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740135814	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740135815	Marionette	DEBUG	[4294967297] Frame script registered
+1537740135853	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:02:16.142 plugin-container[1004:23508] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740136698	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740138356	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740141741	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740142120	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740142249	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740142250	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740142250	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537740142452	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740170024	Marionette	INFO	Stopped listening on port 51683
+1537740178833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.BbhBaPElNUTU"
+2018-09-23 17:03:00.418 plugin-container[1019:24256] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:03:00.681 plugin-container[1020:24287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7307, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740180943	Marionette	INFO	Listening on port 51807
+1537740180999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740181047	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740181048	Marionette	DEBUG	[4294967297] Frame script registered
+1537740181069	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:03:01.411 plugin-container[1021:24396] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740182062	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740183977	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740188653	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740189092	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740189351	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740189351	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537740189352	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740189885	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740470893	Marionette	INFO	Stopped listening on port 51807
+1537740605943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.Pdqi4uYvklhx"
+2018-09-23 17:10:07.526 plugin-container[1114:31429] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:10:07.805 plugin-container[1115:31458] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740608072	Marionette	INFO	Listening on port 52209
+1537740608116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740608163	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740608164	Marionette	DEBUG	[4294967297] Frame script registered
+1537740608185	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:10:08.542 plugin-container[1116:31564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7937, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740609091	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740610892	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740613873	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740614268	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740614408	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740614409	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740614409	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537740614617	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740615153	Marionette	INFO	Stopped listening on port 52209
+1537740673663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.tWZZ7XVe7GDw"
+2018-09-23 17:11:15.252 plugin-container[1133:32859] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:11:15.516 plugin-container[1134:32886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740675927	Marionette	INFO	Listening on port 52346
+1537740676025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740676069	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740676083	Marionette	DEBUG	[4294967297] Frame script registered
+1537740676105	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:11:16.286 plugin-container[1135:33000] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740677018	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740678806	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740683726	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740684294	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740684529	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740684530	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740684530	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537740685076	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740732204	Marionette	INFO	Stopped listening on port 52346
+1537740748808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.tByVA1MHWqfj"
+2018-09-23 17:12:30.415 plugin-container[1156:34132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:12:30.675 plugin-container[1157:34159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740751028	Marionette	INFO	Listening on port 52506
+1537740751065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740751113	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740751157	Marionette	DEBUG	[4294967297] Frame script registered
+1537740751177	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:12:31.361 plugin-container[1158:34275] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740754287	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740755410	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+1537740757573	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740757894	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740758205	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740767461	Marionette	INFO	Stopped listening on port 52506
+1537740775851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.ejuB3EeHb4bw"
+2018-09-23 17:12:57.330 plugin-container[1168:34880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:12:57.587 plugin-container[1169:34910] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740777873	Marionette	INFO	Listening on port 52587
+1537740777924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740777976	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740777977	Marionette	DEBUG	[4294967297] Frame script registered
+1537740778008	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:12:58.344 plugin-container[1170:35064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740779041	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740780727	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740783960	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740784267	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740784439	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740784453	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740784453	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537740784660	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740785245	Marionette	INFO	Stopped listening on port 52587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537740908287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.jPsMeKFUaxSi"
+2018-09-23 17:15:09.869 plugin-container[1212:37839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:15:10.138 plugin-container[1213:37867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740910538	Marionette	INFO	Listening on port 52787
+1537740910546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740910593	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740910612	Marionette	DEBUG	[4294967297] Frame script registered
+1537740910636	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:15:10.881 plugin-container[1214:37973] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740911853	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740913656	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740920727	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740921134	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740921411	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740921413	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740921413	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537740921893	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740922036	Marionette	INFO	Stopped listening on port 52787
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1537740987273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.k4FWQY76M2f6"
+2018-09-23 17:16:28.876 plugin-container[1232:39337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:16:29.141 plugin-container[1233:39366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740989426	Marionette	INFO	Listening on port 52947
+1537740989534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537740989585	Marionette	DEBUG	[4294967297] Frame script loaded
+1537740989586	Marionette	DEBUG	[4294967297] Frame script registered
+1537740989612	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:16:29.861 plugin-container[1235:39482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537740990510	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537740992088	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537740996606	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537740997060	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537740997266	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537740997267	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537740997267	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537740997776	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741189129	Marionette	INFO	Stopped listening on port 52947
+1537741194266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.1f0R7ewV21Rk"
+2018-09-23 17:19:55.872 plugin-container[1274:41181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:19:56.137 plugin-container[1275:41208] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741196495	Marionette	INFO	Listening on port 53219
+1537741196523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741196572	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741196573	Marionette	DEBUG	[4294967297] Frame script registered
+1537741196597	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:19:56.849 plugin-container[1276:41317] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741197463	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741199155	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741205366	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741205840	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741206039	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741206040	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537741206040	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537741206515	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741503357	Marionette	INFO	Stopped listening on port 53219
+1537741508120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.kRZmmNSD8Pdi"
+2018-09-23 17:25:09.727 plugin-container[1347:44769] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:25:10.015 plugin-container[1348:44802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741510313	Marionette	INFO	Listening on port 53572
+1537741510366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741510412	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741510448	Marionette	DEBUG	[4294967297] Frame script registered
+1537741510466	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:25:10.745 plugin-container[1349:44915] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741512638	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741514539	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741519088	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741519627	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741519867	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741519868	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537741519868	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537741520382	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741552574	Marionette	INFO	Stopped listening on port 53572
+1537741556552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.rZUoUJWQDSUK"
+2018-09-23 17:25:58.143 plugin-container[1363:45537] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x852f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:25:58.416 plugin-container[1364:45564] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741558766	Marionette	INFO	Listening on port 53739
+1537741558835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741558881	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741558883	Marionette	DEBUG	[4294967297] Frame script registered
+1537741558943	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:25:59.146 plugin-container[1365:45672] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741560193	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741562076	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741565409	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741565804	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741565981	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741565981	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537741565982	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537741566212	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741594582	Marionette	INFO	Stopped listening on port 53739
+1537741638326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.bu6HLkAOLomX"
+2018-09-23 17:27:19.853 plugin-container[1384:46445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:27:20.113 plugin-container[1386:46474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741640448	Marionette	INFO	Listening on port 53897
+1537741640484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741640535	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741640550	Marionette	DEBUG	[4294967297] Frame script registered
+1537741640576	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:27:20.832 plugin-container[1387:46580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741641471	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741643242	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741649048	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741649637	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741649856	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741649856	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537741649857	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537741650062	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741664495	Marionette	INFO	Stopped listening on port 53897
+1537741691366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.aHMTyGy9Pghx"
+2018-09-23 17:28:12.946 plugin-container[1401:47187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:28:13.204 plugin-container[1402:47214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7207, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741693494	Marionette	INFO	Listening on port 54047
+1537741693540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741693587	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741693590	Marionette	DEBUG	[4294967297] Frame script registered
+1537741693611	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:28:13.948 plugin-container[1403:47328] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741695642	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741697383	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741701522	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741702031	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741702347	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741702348	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537741702349	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537741702827	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741725311	Marionette	INFO	Stopped listening on port 54047
+1537741904202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.XWJGGgNUNpTG"
+2018-09-23 17:31:45.792 plugin-container[1464:51418] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:31:46.085 plugin-container[1465:51447] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741906406	Marionette	INFO	Listening on port 54315
+1537741906480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537741906526	Marionette	DEBUG	[4294967297] Frame script loaded
+1537741906569	Marionette	DEBUG	[4294967297] Frame script registered
+1537741906593	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:31:46.782 plugin-container[1466:51555] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537741908019	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537741909795	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537741915737	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537741916319	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741916528	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537741916529	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537741916530	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537741916734	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537741983153	Marionette	INFO	Stopped listening on port 54315
+1537742071692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.qoESNOBUumus"
+2018-09-23 17:34:33.308 plugin-container[1506:53643] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:34:33.626 plugin-container[1507:53671] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742073982	Marionette	INFO	Listening on port 54551
+1537742074049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742074095	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742074096	Marionette	DEBUG	[4294967297] Frame script registered
+1537742074121	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:34:34.392 plugin-container[1508:53779] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742074931	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742077039	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742082133	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742082749	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742083087	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742083088	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742083088	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537742083557	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742105164	Marionette	INFO	Stopped listening on port 54551
+1537742151350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.GZIiP1hTRqhk"
+2018-09-23 17:35:53.000 plugin-container[1533:55202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:35:53.320 plugin-container[1534:55230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742153642	Marionette	INFO	Listening on port 54733
+1537742153706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742153763	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742153764	Marionette	DEBUG	[4294967297] Frame script registered
+1537742153815	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:35:54.145 plugin-container[1535:55341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742154698	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742156830	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742161746	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742162167	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742189543	Marionette	INFO	Stopped listening on port 54733
+1537742197525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.NcnYjUSfmgPL"
+2018-09-23 17:36:39.174 plugin-container[1557:56342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:36:39.441 plugin-container[1558:56369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742199741	Marionette	INFO	Listening on port 54875
+1537742199789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742199838	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742199861	Marionette	DEBUG	[4294967297] Frame script registered
+1537742199882	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:36:40.161 plugin-container[1560:56479] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742200678	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742202405	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742207644	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742208079	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742208306	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742208323	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742208324	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537742208567	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742319599	Marionette	INFO	Stopped listening on port 54875
+1537742323763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.qyqEinz8P4e8"
+2018-09-23 17:38:45.367 plugin-container[1586:57382] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:38:45.637 plugin-container[1587:57409] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742326051	Marionette	INFO	Listening on port 55099
+1537742326120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742326165	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742326200	Marionette	DEBUG	[4294967297] Frame script registered
+1537742326220	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:38:46.400 plugin-container[1588:57522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742327132	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742328939	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742334223	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742334652	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742334879	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742334879	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742334880	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537742335133	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A0007,name=PHttpChannel::Msg_Redirect2Verify) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1537742381825	Marionette	INFO	Stopped listening on port 55099
+1537742412506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.0BQ74NpJhyco"
+2018-09-23 17:40:14.133 plugin-container[1612:58598] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:40:14.410 plugin-container[1613:58626] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742414780	Marionette	INFO	Listening on port 55329
+1537742414861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742414909	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742414946	Marionette	DEBUG	[4294967297] Frame script registered
+1537742414984	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:40:15.155 plugin-container[1615:58737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742417049	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742418656	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742423097	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742423525	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742423801	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742423802	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537742423802	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742423972	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742628088	Marionette	INFO	Stopped listening on port 55329
+1537742635550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.v2Sniim6n3Sf"
+2018-09-23 17:43:57.177 plugin-container[1660:61366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:43:57.479 plugin-container[1661:61398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742637742	Marionette	INFO	Listening on port 55628
+1537742637809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742637856	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742637860	Marionette	DEBUG	[4294967297] Frame script registered
+1537742637888	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:43:58.220 plugin-container[1662:61503] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742638929	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742640677	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742645158	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742645581	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742645745	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742645745	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742645746	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537742645967	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742891672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.13RiTalcGkyF"
+2018-09-23 17:48:13.204 plugin-container[1716:64693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:48:13.494 plugin-container[1717:64725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742893895	Marionette	INFO	Listening on port 55928
+1537742893959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742894002	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742894004	Marionette	DEBUG	[4294967297] Frame script registered
+1537742894076	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:48:14.264 plugin-container[1718:64836] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742894941	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742896671	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742901075	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742901479	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742901643	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742901643	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742901643	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537742901879	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742957677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.lFSrDKSR70BX"
+2018-09-23 17:49:19.256 plugin-container[1735:66069] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:49:19.524 plugin-container[1736:66098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8407, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742959930	Marionette	INFO	Listening on port 56093
+1537742960032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537742960077	Marionette	DEBUG	[4294967297] Frame script loaded
+1537742960096	Marionette	DEBUG	[4294967297] Frame script registered
+1537742960129	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:49:20.300 plugin-container[1737:66203] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537742961105	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537742962854	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537742966863	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537742967323	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537742967479	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537742967479	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537742967480	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537742967708	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743205153	Marionette	INFO	Stopped listening on port 56093
+1537743209378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.vmtlYZPjIr1S"
+2018-09-23 17:53:30.975 plugin-container[1791:69592] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 17:53:31.271 plugin-container[1792:69627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743211608	Marionette	INFO	Listening on port 56417
+1537743211618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537743211667	Marionette	DEBUG	[4294967297] Frame script loaded
+1537743211668	Marionette	DEBUG	[4294967297] Frame script registered
+1537743211723	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 17:53:32.014 plugin-container[1793:69729] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x783f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743212602	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537743214328	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537743219219	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537743219680	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743219928	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537743219929	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537743219929	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537743220424	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743802396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.02krOwHdJgQA"
+2018-09-23 18:03:24.120 plugin-container[1909:75839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:03:24.499 plugin-container[1910:75869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743804830	Marionette	INFO	Listening on port 56996
+1537743804841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537743804891	Marionette	DEBUG	[4294967297] Frame script loaded
+1537743804911	Marionette	DEBUG	[4294967297] Frame script registered
+1537743804937	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:03:25.196 plugin-container[1911:75970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743806516	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537743808420	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537743814414	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537743814897	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743815107	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537743815107	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537743815107	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537743815333	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743834419	Marionette	INFO	Stopped listening on port 56996
+1537743838023	Marionette	INFO	Stopped listening on port 56417
+1537743847377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.pBGCZzE47N4u"
+2018-09-23 18:04:09.050 plugin-container[1924:76747] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:04:09.308 plugin-container[1925:76776] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743849613	Marionette	INFO	Listening on port 57143
+1537743849645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537743849692	Marionette	DEBUG	[4294967297] Frame script loaded
+1537743849694	Marionette	DEBUG	[4294967297] Frame script registered
+1537743849729	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:04:10.047 plugin-container[1926:76884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537743851221	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537743852894	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537743857960	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537743858376	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537743858585	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537743858585	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537743858585	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537743859203	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744216893	Marionette	INFO	Stopped listening on port 57143
+1537744221412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.PftnXvco0P0t"
+2018-09-23 18:10:23.005 plugin-container[1997:80992] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:10:23.284 plugin-container[1998:81025] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744223536	Marionette	INFO	Listening on port 57542
+1537744223583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744223631	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744223633	Marionette	DEBUG	[4294967297] Frame script registered
+1537744223654	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:10:24.014 plugin-container[2000:81140] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744224727	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537744226565	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537744231457	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537744231960	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744232259	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537744232261	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537744232262	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537744232841	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744418175	Marionette	INFO	Stopped listening on port 57542
+1537744423722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.6PVjW5B41W5K"
+2018-09-23 18:13:45.309 plugin-container[2041:84775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:13:45.595 plugin-container[2042:84810] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744425926	Marionette	INFO	Listening on port 57821
+1537744425978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744426025	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744426037	Marionette	DEBUG	[4294967297] Frame script registered
+1537744426060	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:13:46.311 plugin-container[2043:84916] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744427562	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537744429420	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537744435447	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537744435899	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744436128	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537744436129	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537744436129	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537744436597	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744462700	Marionette	INFO	Stopped listening on port 57821
+1537744476145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.PuDCXWgI08b5"
+2018-09-23 18:14:37.745 plugin-container[2059:85762] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:14:38.013 plugin-container[2060:85791] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744478377	Marionette	INFO	Listening on port 57986
+1537744478410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744478458	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744478460	Marionette	DEBUG	[4294967297] Frame script registered
+1537744478484	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:14:38.739 plugin-container[2061:85893] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744479702	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537744481346	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/MMA/
+Unable to get IOVARendererSubID
+1537744485823	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/MMA/
+1537744486230	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744486498	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537744486499	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537744486499	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537744487034	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744631738	Marionette	INFO	Stopped listening on port 57986
+1537744652086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.oBimJXS0WXOK"
+2018-09-23 18:17:33.698 plugin-container[2094:87884] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:17:33.960 plugin-container[2095:87912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744654329	Marionette	INFO	Listening on port 58226
+1537744654342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744654391	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744654403	Marionette	DEBUG	[4294967297] Frame script registered
+1537744654479	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:17:34.685 plugin-container[2096:88023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744655322	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537744657030	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537744662620	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537744663134	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744663382	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537744663382	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537744663383	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537744663590	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744803231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.FBdTzLp3lFgr"
+2018-09-23 18:20:04.700 plugin-container[2131:89823] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:20:04.991 plugin-container[2132:89852] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744805300	Marionette	INFO	Listening on port 58470
+1537744805403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744805449	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744805456	Marionette	DEBUG	[4294967297] Frame script registered
+1537744805479	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:20:05.663 plugin-container[2133:89961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8503, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744806378	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537744807917	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537744812554	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537744812966	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744813270	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537744813270	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537744813271	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537744813782	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537744872855	Marionette	INFO	Stopped listening on port 58226
+[Child 2132, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 2132, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1537744875383	Marionette	INFO	Stopped listening on port 58470
+1537744946392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.swuiRgiuTPTh"
+2018-09-23 18:22:27.986 plugin-container[2160:92911] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:22:28.276 plugin-container[2162:92947] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744948684	Marionette	INFO	Listening on port 58687
+1537744948753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537744948798	Marionette	DEBUG	[4294967297] Frame script loaded
+1537744948799	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 18:22:29.069 plugin-container[2163:93053] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537744957571	Marionette	INFO	Stopped listening on port 58687
+1537745051178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.xjAhhunXremg"
+2018-09-23 18:24:12.624 plugin-container[2185:94439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:24:12.871 plugin-container[2186:94466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7607, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745053167	Marionette	INFO	Listening on port 58805
+1537745053239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537745053286	Marionette	DEBUG	[4294967297] Frame script loaded
+1537745053296	Marionette	DEBUG	[4294967297] Frame script registered
+1537745053319	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:24:13.580 plugin-container[2187:94572] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745054188	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537745055733	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537745062367	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537745062782	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745062984	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537745062985	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537745062985	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537745063515	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745298300	Marionette	INFO	Stopped listening on port 58805
+1537745463226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.Z0NPQUvBxR8Q"
+2018-09-23 18:31:04.830 plugin-container[2266:98463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:31:05.114 plugin-container[2267:98493] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745465512	Marionette	INFO	Listening on port 59221
+1537745465585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537745465628	Marionette	DEBUG	[4294967297] Frame script loaded
+1537745465679	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-23 18:31:05.890 plugin-container[2269:98597] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745471999	Marionette	INFO	Stopped listening on port 59221
+1537745481341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.LTaT5ewHW8AU"
+2018-09-23 18:31:22.803 plugin-container[2277:98949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:31:23.054 plugin-container[2278:98977] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745483448	Marionette	INFO	Listening on port 59280
+1537745483484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537745483531	Marionette	DEBUG	[4294967297] Frame script loaded
+1537745483539	Marionette	DEBUG	[4294967297] Frame script registered
+1537745483608	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:31:23.811 plugin-container[2279:99085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745485888	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537745487609	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/MMA/
+Unable to get IOVARendererSubID
+1537745492286	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/MMA/
+1537745492708	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745492895	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537745492895	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537745492896	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537745493105	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745572793	Marionette	INFO	Stopped listening on port 59280
+1537745580406	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.qHGul0zlFJWX"
+2018-09-23 18:33:02.044 plugin-container[2300:101022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:33:02.293 plugin-container[2301:101049] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745582622	Marionette	INFO	Listening on port 59486
+1537745582664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537745582712	Marionette	DEBUG	[4294967297] Frame script loaded
+1537745582713	Marionette	DEBUG	[4294967297] Frame script registered
+1537745582738	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:33:02.996 plugin-container[2302:101155] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745583762	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537745585501	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537745589994	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537745590416	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745590581	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537745590581	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537745590582	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537745590784	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745612299	Marionette	INFO	Stopped listening on port 59486
+1537745910915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.h4tDjSC5WMO3"
+2018-09-23 18:38:32.511 plugin-container[2386:107997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7907, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:38:32.793 plugin-container[2387:108026] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745913080	Marionette	INFO	Listening on port 59860
+1537745913169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537745913217	Marionette	DEBUG	[4294967297] Frame script loaded
+1537745913232	Marionette	DEBUG	[4294967297] Frame script registered
+1537745913256	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:38:33.504 plugin-container[2388:108133] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537745914679	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537745916549	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537745923449	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537745923857	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745924057	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537745924057	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537745924057	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537745924527	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537745941739	Marionette	INFO	Stopped listening on port 59860
+1537746217913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.VIJsldj5kULn"
+2018-09-23 18:43:39.506 plugin-container[2449:112695] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:43:39.796 plugin-container[2450:112723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746220184	Marionette	INFO	Listening on port 60252
+1537746220270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746220320	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746220346	Marionette	DEBUG	[4294967297] Frame script registered
+1537746220380	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:43:40.551 plugin-container[2451:112828] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746221559	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746223413	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746228360	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746228867	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746238890	Marionette	INFO	Stopped listening on port 60252
+1537746243535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.eeOmdTj9JzSh"
+2018-09-23 18:44:05.127 plugin-container[2461:113480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:44:05.403 plugin-container[2462:113509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746245683	Marionette	INFO	Listening on port 60380
+1537746245708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746245758	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746245760	Marionette	DEBUG	[4294967297] Frame script registered
+1537746245788	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:44:06.128 plugin-container[2464:113624] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7707, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746247138	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746248741	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746252167	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746252536	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746252694	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746252695	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746252695	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537746252903	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746308026	Marionette	INFO	Stopped listening on port 60380
+1537746312869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.0La0uhSwSmUu"
+2018-09-23 18:45:14.475 plugin-container[2483:115290] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a2b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:45:14.762 plugin-container[2484:115322] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746315086	Marionette	INFO	Listening on port 60570
+1537746315111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746315159	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746315186	Marionette	DEBUG	[4294967297] Frame script registered
+1537746315210	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:45:15.464 plugin-container[2485:115427] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746316386	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746318301	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746322206	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746322619	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746322791	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746322792	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746322792	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537746323015	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746429018	Marionette	INFO	Stopped listening on port 60570
+1537746435183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.5nlmwCNwFBiA"
+2018-09-23 18:47:16.837 plugin-container[2510:117787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:47:17.138 plugin-container[2511:117821] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7803, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746437475	Marionette	INFO	Listening on port 60804
+1537746437576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746437622	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746437623	Marionette	DEBUG	[4294967297] Frame script registered
+1537746437686	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:47:17.890 plugin-container[2512:117921] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746438643	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746440235	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746444133	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746444496	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746444650	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746444651	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746444651	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537746444854	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746489494	Marionette	INFO	Stopped listening on port 60804
+1537746496000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.Slo2bXMX3VmG"
+2018-09-23 18:48:17.597 plugin-container[2528:118839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:48:17.855 plugin-container[2529:118867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746498197	Marionette	INFO	Listening on port 60994
+1537746498272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746498319	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746498346	Marionette	DEBUG	[4294967297] Frame script registered
+1537746498365	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:48:18.553 plugin-container[2530:118976] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746499249	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746500857	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746505486	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746505812	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746505984	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746505985	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746505985	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537746506189	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746628775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.A6p7pFPFU1GZ"
+2018-09-23 18:50:30.443 plugin-container[2565:121073] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:50:30.820 plugin-container[2566:121105] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746631185	Marionette	INFO	Listening on port 61243
+1537746631261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746631306	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746631324	Marionette	DEBUG	[4294967297] Frame script registered
+1537746631351	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:50:31.527 plugin-container[2567:121211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746632583	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746634517	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746639181	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746639591	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746639881	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746639883	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1537746639883	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537746640084	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746738896	Marionette	INFO	Stopped listening on port 60994
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1537746741553	Marionette	INFO	Stopped listening on port 61243
+1537746748020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.0TbhAbbGar3Y"
+2018-09-23 18:52:29.716 plugin-container[2591:122205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:52:30.000 plugin-container[2592:122234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746750368	Marionette	INFO	Listening on port 61480
+1537746750519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746750570	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746750580	Marionette	DEBUG	[4294967297] Frame script registered
+1537746750601	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:52:30.717 plugin-container[2593:122341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746751785	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746753915	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746759062	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746759526	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746759730	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746759731	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746759731	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967304
+1537746760256	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746918092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.6uKgrH4kkpBc"
+2018-09-23 18:55:19.709 plugin-container[2627:124945] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:55:20.038 plugin-container[2628:124977] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746920416	Marionette	INFO	Listening on port 61759
+1537746920451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746920499	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746920501	Marionette	DEBUG	[4294967297] Frame script registered
+1537746920524	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:55:20.775 plugin-container[2629:125079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746922124	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746924052	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537746928886	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537746929347	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746929565	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537746929565	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537746929566	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537746930076	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537746983345	Marionette	INFO	Stopped listening on port 61759
+1537746986802	Marionette	INFO	Stopped listening on port 61480
+1537746992572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.xv8Prar07NLu"
+2018-09-23 18:56:34.201 plugin-container[2647:126084] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:56:34.480 plugin-container[2648:126118] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746994759	Marionette	INFO	Listening on port 61959
+1537746994832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537746994880	Marionette	DEBUG	[4294967297] Frame script loaded
+1537746994881	Marionette	DEBUG	[4294967297] Frame script registered
+1537746994934	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:56:35.224 plugin-container[2649:126222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537746996173	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537746998201	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537747002589	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537747003076	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747003289	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537747003289	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537747003290	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537747003769	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747053507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.iyClcK3ebIo9"
+2018-09-23 18:57:34.969 plugin-container[2665:127182] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 18:57:35.253 plugin-container[2666:127209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747055632	Marionette	INFO	Listening on port 62140
+1537747055672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537747055719	Marionette	DEBUG	[4294967297] Frame script loaded
+1537747055721	Marionette	DEBUG	[4294967297] Frame script registered
+1537747055745	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 18:57:35.998 plugin-container[2667:127319] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747056827	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537747058676	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537747063304	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537747063803	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747064064	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537747064064	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537747064064	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537747064534	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747227741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.5NLm7ysEWqBo"
+2018-09-23 19:00:29.497 plugin-container[2703:128814] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 19:00:29.859 plugin-container[2704:128848] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747230162	Marionette	INFO	Listening on port 62428
+1537747230212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537747230262	Marionette	DEBUG	[4294967297] Frame script loaded
+1537747230263	Marionette	DEBUG	[4294967297] Frame script registered
+1537747230325	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 19:00:30.608 plugin-container[2705:128952] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747231675	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537747233535	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537747239620	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537747241089	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747241973	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537747241975	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537747241977	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537747243054	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747295618	Marionette	INFO	Stopped listening on port 61959
+1537747299967	Marionette	INFO	Stopped listening on port 62140
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1537747368279	Marionette	INFO	Stopped listening on port 62428
+1537747377165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.9Jqf1Hfl0VT4"
+2018-09-23 19:02:58.786 plugin-container[2735:130279] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 19:02:59.079 plugin-container[2736:130311] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747379344	Marionette	INFO	Listening on port 62687
+1537747379421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537747379467	Marionette	DEBUG	[4294967297] Frame script loaded
+1537747379468	Marionette	DEBUG	[4294967297] Frame script registered
+1537747379487	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 19:02:59.815 plugin-container[2737:130411] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747380301	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537747382580	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537747389003	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537747391631	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747392960	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537747392962	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537747392963	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537747394077	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747579727	Marionette	INFO	Stopped listening on port 62687
+1537747581562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/dj/y_wdkqkj75d7ndy3c795tdxm0000gn/T/rust_mozprofile.hRgEZZbJGeWW"
+2018-09-23 19:06:23.018 plugin-container[2776:131826] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-23 19:06:23.273 plugin-container[2777:131853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747583572	Marionette	INFO	Listening on port 62954
+1537747583619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537747583666	Marionette	DEBUG	[4294967297] Frame script loaded
+1537747583673	Marionette	DEBUG	[4294967297] Frame script registered
+1537747583697	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-09-23 19:06:24.010 plugin-container[2778:131965] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7103, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537747584552	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537747586287	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.reddit.com/r/mma
+Unable to get IOVARendererSubID
+1537747593223	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.reddit.com/r/mma
+1537747593625	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537747593820	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967310
+1537747593821	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1537747593821	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967303
+1537747594318	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537748034487	Marionette	INFO	Stopped listening on port 62954
