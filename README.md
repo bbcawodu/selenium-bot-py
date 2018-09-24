@@ -2,7 +2,7 @@
 * This repo serves as the code base for a python project that tests the functionality of Selenium Webdriver.
 * [Selenium python module](https://github.com/baijum/selenium-python)
 * [Selenium python docs](https://selenium-python.readthedocs.io/index.html)
-* [Selenium IDE and WebDriver Docs](hhttps://www.seleniumhq.org/docs/)
+* [Selenium IDE and WebDriver Docs](https://www.seleniumhq.org/docs/)
 
 # Prerequisites
 * Python 3
