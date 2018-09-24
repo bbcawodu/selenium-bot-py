@@ -1,9 +1,14 @@
+# -*- coding: utf-8 -*-
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoAlertPresentException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0
 from selenium.webdriver.support import expected_conditions as EC # available since 2.26.0
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+import unittest, time, re
 
 
 FIGHTERS_W_KEYWORDS = {
@@ -38,7 +43,52 @@ def scroll_to_top(driver_instance):
   time.sleep(5)
 
 
+
+class UntitledTestCase(unittest.TestCase):
+    def setUp(self):
+        self.driver = webdriver.Firefox()
+        self.driver.implicitly_wait(30)
+        self.base_url = "https://www.katalon.com/"
+        self.verificationErrors = []
+        self.accept_next_alert = True
+    
+    def test_untitled_test_case(self):
+        driver = self.driver
+        driver.get("https://www.reddit.com/r/mma")
+        driver.find_element_by_id("ListingSort--SortPicker").click()
+        driver.find_element_by_xpath("(.//*[normalize-space(text()) and normalize-space(.)='hot'])[2]/following::span[1]").click()
+    
+    def is_element_present(self, how, what):
+        try: self.driver.find_element(by=how, value=what)
+        except NoSuchElementException as e: return False
+        return True
+    
+    def is_alert_present(self):
+        try: self.driver.switch_to_alert()
+        except NoAlertPresentException as e: return False
+        return True
+    
+    def close_alert_and_get_its_text(self):
+        try:
+            alert = self.driver.switch_to_alert()
+            alert_text = alert.text
+            if self.accept_next_alert:
+                alert.accept()
+            else:
+                alert.dismiss()
+            return alert_text
+        finally: self.accept_next_alert = True
+    
+    def tearDown(self):
+        self.driver.quit()
+        self.assertEqual([], self.verificationErrors)
+    
+
+
+
 if __name__ == "__main__":
+  # unittest.main()
+
   # Create a new instance of the Firefox driver
   driver = webdriver.Firefox()
 
